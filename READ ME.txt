@@ -1,4 +1,4 @@
 This repo is my new begining to the wold of web dev.
-the is a small start to a website dev (front end) for my friend's youtube channel(college ke kisse)
+this is a small start to a website dev (front end) by creating a website for my friend's youtube channel(college ke kisse)
 
 and yep there lot more to learn and lot to implement here :)
